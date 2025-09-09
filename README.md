@@ -42,7 +42,7 @@
 
 ---
 
-## 📂 활용 공공데이터
+## 활용 공공데이터
 - [병영 표준 식단 – 국방부](https://data.mnd.go.kr/mbshome/mbs/data/subview.jsp?id=data_020000000000&dataUrl=openapi)  
 - [PX 인기 품목 – 국방부](https://data.mnd.go.kr/mbshome/mbs/data/subview.jsp?id=data_020000000000&dataUrl=openapi)  
 
