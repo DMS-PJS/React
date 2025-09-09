@@ -48,3 +48,6 @@
 
 ---
 
+## 클러스터링 예시
+- <img width="1528" height="754" alt="image" src="https://github.com/user-attachments/assets/2ff26ed2-85ec-4d01-be1e-be0cb9024135" />
+
